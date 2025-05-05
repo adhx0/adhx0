@@ -1,4 +1,5 @@
-## Hi there 👋
+![Header](./banner.png)
+## Hello I'm Adhi
 
 <!--
 **adhingrh01/adhingrh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
