@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Skill</h3>
 
 ###
 
@@ -70,10 +70,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adhingrh01/adhingrh01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adhingrh01/adhingrh01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adhingrh01/adhingrh01/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/adhingrh01/adhingrh01/output/snake.svg" alt="Snake animation" />
 
 ###
