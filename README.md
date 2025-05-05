@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Dicoding and IDNetworkers
+- 🔭 I’m currently working on PT Surganya Motor Indonesia
+- 🌱 I’m currently learning Sysadmin and Networking
+- ⚡ Fun fact: I recharge my energy through 'me time'
