@@ -30,10 +30,6 @@
 ###
 
 <h1 align="center">Hey 👋 What's up?</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuap.com?color=%2336BCF7&lines=Hi+there!+I'm+Adhi+👋;I+love+Network+Security+;Linux+&+DevOps+enthusiast+🐧;" />
-</p>
-
 
 ###
 
@@ -41,7 +37,11 @@
 
 ###
 
-<p align="left">I'm Adhingrh from Indonesia<br><br>- 🔭 I’m working as PT Surganya Motor Indonesia<br>- 📚 I'm currently learning Network Security<br>- ⚡ Fun fact : I recharge my energy through 'me time'</p>
+<p align="left"><b>I'm Adhingrh from Indonesia</b><br><br>
+- 🔭 I’m working as <a href="https://hc.indoprima.co.id/career/company/detail/11" style="color: black; font-weight: normal;" onmouseover="this.style.fontWeight='bold'" onmouseout="this.style.fontWeight='normal'">PT Surganya Motor Indonesia</a>
+<br>
+- 📚 I'm currently learning Network Security<br>
+- ⚡ Fun fact : I recharge my energy through 'me time'</p>
 
 ###
 
