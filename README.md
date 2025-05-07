@@ -37,11 +37,10 @@
 
 ###
 
-<p align="left"><b>I'm Adhingrh from Indonesia</b><br><br>
-- 🔭 I’m working as <a href="https://hc.indoprima.co.id/career/company/detail/11" style="color: black; font-weight: normal;" onmouseover="this.style.fontWeight='bold'" onmouseout="this.style.fontWeight='normal'">PT Surganya Motor Indonesia</a>
-<br>
-- 📚 I'm currently learning Network Security<br>
-- ⚡ Fun fact : I recharge my energy through 'me time'</p>
+ **I'm Adhingrh from Indonesia**
+- 🔭 I’m working as [PT Surganya Motor Indonesia](https://hc.indoprima.co.id/career/company/detail/11)
+- 📚 I'm currently learning Network Security
+- ⚡ Fun fact : I recharge my energy through 'me time'
 
 ###
 
