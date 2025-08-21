@@ -37,7 +37,7 @@
 
 ###
 
- **I'm Adhingrh from Indonesia**
+ **I'm adhx0 from Indonesia**
 - 🔭 I’m working as [PT Surganya Motor Indonesia](https://hc.indoprima.co.id/career/company/detail/11)
 - 📚 I'm currently learning Network Security
 - ⚡ Fun fact : I recharge my energy through 'me time'
@@ -79,3 +79,4 @@
 <img src="https://raw.githubusercontent.com/adhingrh01/adhingrh01/output/snake.svg" alt="Snake animation" />
 
 ###
+
