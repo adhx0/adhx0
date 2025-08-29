@@ -71,7 +71,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=adhx0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=adhx0&show_icons=true&theme=dark" height="220" alt="github stats"/>
 </div>
 
 ###
@@ -79,5 +79,6 @@
 <img src="https://raw.githubusercontent.com/adhingrh01/adhingrh01/output/snake.svg" alt="Snake animation" />
 
 ###
+
 
 
