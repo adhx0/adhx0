@@ -49,7 +49,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="30" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/mikrotik/293239" height="30" alt="mikrotik logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="30" alt="mikrotik logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
   <img width="12" />
@@ -62,16 +64,6 @@
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhx0&show_icons=true&theme=dark" height="220" alt="github stats"/>
 </div>
 
 ###
